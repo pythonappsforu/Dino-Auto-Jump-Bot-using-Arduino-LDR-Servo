@@ -16,7 +16,7 @@
    Wired Wanderer (@TheWiredWander)
 
    📜 License:
-   © 2025 Wired Wanderer. All rights reserved.
+   © 2026 Wired Wanderer. All rights reserved.
    Educational and personal hobby use only.
    Commercial use or redistribution without permission is prohibited.
 
